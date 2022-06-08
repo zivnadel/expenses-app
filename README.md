@@ -9,7 +9,7 @@ Demo app created for practice purposes. Created with creat-react-app.
 You can simply visit the app in the gh-pages website:
 https://zivnadel.github.io/expenses-app/
 
-Or, you can download and install the app, to run in locally:
+Or, you can download and install the app, to run it locally:
 
 ### Install Dependencies
 ```
