@@ -9,8 +9,8 @@ JavaScript, React.js, React Hooks, CSS Modules, create-react-app and more.
 
 # Running and Usage
 
-You can simply visit the app in the gh-pages website:
-https://zivnadel.github.io/expenses-app/
+You can simply visit the app in the gh-pages [website](https://zivnadel.github.io/expenses-app/
+).
 
 Or, you can download and install the app, to run it locally:
 
